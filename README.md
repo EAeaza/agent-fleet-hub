@@ -4,16 +4,16 @@ A small, self-running coordination hub for one developer's machines. It inventor
 project and coding-agent session on each machine, merges duplicates into one honest list, and
 keeps everything on GitHub under a single identity.
 
-**since Sep 2026, active · 180 commits · Python · PowerShell · Bash · code: private**
+**since Sep 2026, active · 188 commits · Python · PowerShell · Bash · code: private**
 ## The problem
 
 I build most of my software with coding agents (Claude Code and Codex), on two Windows PCs and a
-MacBook. After a year, three things had gone wrong:
+MacBook. A few months in, three things had gone wrong:
 
 - **Work drifted into copies**: backup folders, old-PC migrations, downloads and agent
   worktrees. Nobody could say how many projects there really were.
-- **Agent sessions were invisible.** Almost 2,000 sessions sat in local transcript folders, and
-  much of that work had no commit history at all.
+- **Agent sessions were invisible.** When the hub started, almost 2,000 sessions sat in local
+  transcript folders, and much of that work had no commit history at all.
 - **Commit identity was split.** Commits had been authored under an address tied to a second,
   dormant GitHub account, or under machine-generated addresses. Hundreds counted toward the
   wrong profile, or toward none.
