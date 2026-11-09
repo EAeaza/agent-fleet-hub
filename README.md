@@ -7,7 +7,7 @@ and keeps everything on GitHub under a single identity. On top of that sits an a
 projects milestone by milestone, and a Telegram assistant that is the owner's single channel
 into all of it.
 
-**since Sep 2026, active · Python · PowerShell · Bash · code: private**
+**Sep 2026 – Oct 2026 · Python · PowerShell · Bash · code: private**
 ## The problem
 
 I build most of my software with coding agents (Claude Code and Codex), on two Windows PCs and a
